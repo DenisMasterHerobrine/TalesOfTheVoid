@@ -1,0 +1,23 @@
+{
+  "Conditions": {
+    "EnvironmentIds": [
+      "Abyssal_Dark_Environment"
+    ],
+    "Never": false
+  },
+  "Music": {
+    "Tracks": [
+      "Music/Ambience/Lunar_Serenity.ogg",
+      "Music/Ambience/Night_Ambient1.ogg",
+      "Music/Ambience/Night_Ambient2.ogg",
+      "Music/Ambience/Ambient2.ogg",
+      "Music/Ambience/Ambient3.ogg",
+      "Music/Ambience/Ambient4.ogg",
+      "Music/Ambience/Ambient5.ogg",
+      "Music/Ambience/Ambient6.ogg"
+    ],
+    "Volume": 1.2
+  },
+  "AudioCategory": "AudioCat_Music",
+  "Priority": 100
+}

@@ -1,0 +1,84 @@
+{
+  "SkyTopColors": [
+    {
+      "Hour": 3,
+      "Color": "#100817"
+    }
+  ],
+  "SkyBottomColors": [
+    {
+      "Hour": 3,
+      "Color": "#2f1543"
+    }
+  ],
+  "SkySunsetColors": [
+    {
+      "Hour": 3,
+      "Color": "#612822"
+    }
+  ],
+  "FogColors": [
+    {
+      "Hour": 3,
+      "Color": "#210e2a"
+    }
+  ],
+  "FogDensities": [
+    {
+      "Hour": 0,
+      "Value": 0.85
+    }
+  ],
+  "FogHeightFalloffs": [
+    {
+      "Hour": 0,
+      "Value": 1.7
+    }
+  ],
+  "FogDistance": [
+    -128.0,
+    512.0
+  ],
+  "FogOptions": {
+    "FogHeightCameraFixed": 0.5,
+    "EffectiveViewDistanceMultiplier": 1.0
+  },
+  "SunColors": [
+    {
+      "Hour": 0,
+      "Color": "#030305"
+    }
+  ],
+
+"SunlightColors": [
+    {
+      "Hour": 5,
+      "Color": "#b42d6f"
+    }
+  ],
+  "SunScales": [
+    {
+      "Hour": 0,
+      "Value": 1
+    }
+  ],
+ "SunGlowColors": [
+    {
+      "Hour": 0,
+      "Color": "rgba(#211d1c, 0.44)"
+    }
+  ],
+
+  "MoonScales": [
+    {
+      "Hour": 0,
+      "Value": 1
+    }
+  ],
+  "Particle": {
+    "SystemId": "dust_sparkles",
+    "OvergroundOnly": false,
+    "Color": "#ff52b8"
+  },
+  "Stars": "Sky/NortherLights.png"
+}
