@@ -1,0 +1,64 @@
+{
+  "SkyTopColors": [
+    {
+      "Hour": 3,
+      "Color": "#100817"
+    }
+  ],
+  "SkyBottomColors": [
+    {
+      "Hour": 3,
+      "Color": "#0d0811"
+    }
+  ],
+  "SkySunsetColors": [
+    {
+      "Hour": 3,
+      "Color": "#200f27"
+    }
+  ],
+  "FogColors": [
+    {
+      "Hour": 3,
+      "Color": "#210e2a"
+    }
+  ],
+  "FogDensities": [
+    {
+      "Hour": 0,
+      "Value": 0.85
+    }
+  ],
+  "FogHeightFalloffs": [
+    {
+      "Hour": 0,
+      "Value": 1.7
+    }
+  ],
+  "FogDistance": [
+    -128.0,
+    512.0
+  ],
+  "FogOptions": {
+    "FogHeightCameraFixed": 0.5,
+    "EffectiveViewDistanceMultiplier": 1.0
+  },
+  "SunScales": [
+    {
+      "Hour": 0,
+      "Value": 1
+    }
+  ],
+  "MoonScales": [
+    {
+      "Hour": 0,
+      "Value": 1
+    }
+  ],
+  "Particle": {
+    "SystemId": "Embers",
+    "OvergroundOnly": true,
+    "Color": "#ff3f3f"
+  },
+  "Stars": "Sky/NortherLights.png"
+}
