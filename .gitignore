@@ -26,3 +26,13 @@ server/world/
 /libs
 /gradle
 /.idea
+
+# Music files, they can be found in the jars, we do not track them due to possible copyright issues since they're fine for mods and videogames, but are they for repositories?
+/src/main/resources/Common/Music/Ambience/Alkakrab - Beyond The Sun.ogg
+/src/main/resources/Common/Music/Ambience/Alkakrab - Bright Stars.ogg
+/src/main/resources/Common/Music/Ambience/Alkakrab - Eclipsed-Desolation.ogg
+/src/main/resources/Common/Music/Ambience/Alkakrab - Lunar_Serenity.ogg
+/src/main/resources/Common/Music/Ambience/grimyth-Constructor.ogg
+/src/main/resources/Common/Music/Ambience/grimyth-Deep-Space-Buddha.ogg
+/src/main/resources/Common/Music/Ambience/grimyth-Dungeon-VIII-2.ogg
+/src/main/resources/Common/Music/Ambience/grimyth-Temple-of-Foreboding.ogg
