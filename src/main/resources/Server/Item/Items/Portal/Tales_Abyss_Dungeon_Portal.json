@@ -1,6 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "server.items.Hub_Portal_Zone3_Taiga1.name"
+    "Name": "server.items.Tales_Abyss_Ascendance_Portal.name",
+    "Description": "server.items.Tales_Abyss_Ascendance_Portal.description"
   },
   "Icon": "Icons/ItemsGenerated/Portal_Device.png",
   "Categories": [
@@ -48,8 +49,7 @@
         "Interactions": [
           {
             "Type": "HubPortal",
-            "WorldName": "zone3_taiga1_world",
-            "InstanceTemplate": "Zone3_Taiga1",
+            "WorldName": "default",
             "Next": {
               "Type": "Simple",
               "Effects": {
@@ -66,10 +66,10 @@
   "Tags": {
     "Type": [
       "Portal",
-      "HubPortal"
+      "Abyss Portal"
     ]
   },
-  "Quality": "Developer",
+  "Quality": "Epic",
   "IconProperties": {
     "Scale": 0.35,
     "Rotation": [

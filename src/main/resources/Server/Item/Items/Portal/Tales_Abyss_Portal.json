@@ -63,6 +63,38 @@
     },
     "CustomModelAnimation": "Blocks/Miscellaneous/Platform_Magic_Idle.blockyanim"
   },
+  "Recipe": {
+    "TimeSeconds": 10,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Rock_Magma_Cooled",
+        "Quantity": 40
+      },
+      {
+        "ItemId": "Ingredient_Crystal_Purple",
+        "Quantity": 20
+      },
+      {
+        "ItemId": "Ingredient_Bar_Adamantite",
+        "Quantity": 10
+      },
+      {
+        "ItemId": "Ingredient_Void_Essence",
+        "Quantity": 10
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Arcanebench",
+        "Type": "Crafting",
+        "Categories": [
+          "Arcane_Portals"
+        ]
+      }
+    ],
+    "RequiredMemoriesLevel": 1
+  },
   "PlayerAnimationsId": "Block",
   "Tags": {
     "Type": [
@@ -70,7 +102,7 @@
       "AbyssPortal"
     ]
   },
-  "Quality": "Developer",
+  "Quality": "Epic",
   "IconProperties": {
     "Scale": 0.35,
     "Rotation": [
