@@ -35,7 +35,7 @@
   "BlockType": {
     "Material": "Solid",
     "DrawType": "Cube",
-    "Group": "Grass",
+    "Group": "Soil",
     "Flags": {},
     "Gathering": {
       "Breaking": {
@@ -67,7 +67,8 @@
     ],
     "ParticleColor": "#959595",
     "TransitionToTag": "Fluid=Water",
-    "TransitionTexture": "BlockTextures/Transition_Void_Grass.png"
+    "TransitionTexture": "BlockTextures/Transition_Void_Grass.png",
+    "RandomRotation": "YawStep1"
   },
   "Tags": {
     "Type": [

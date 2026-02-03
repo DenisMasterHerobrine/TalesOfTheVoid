@@ -3,7 +3,7 @@
   "Tags": {
     "Void": []
   },
-  "SpawnDensity": 0,
+  "SpawnDensity": 0.7,
   "WeatherForecasts": {
     "0": [
       {

@@ -7,7 +7,7 @@
       "Description": "Model to be used."
     },
     "DropList": {
-      "Value": "Drop_Bear_Grizzly",
+      "Value": "Void_Hound",
       "Description": "Drop Items."
     },
     "Attack": {
@@ -27,7 +27,7 @@
       "Description": "Hearing Range."
     },
     "MaxSpeed": {
-      "Value": 8,
+      "Value": 9,
       "Description": "Hearing Range."
     },
     "LeashDistance": {

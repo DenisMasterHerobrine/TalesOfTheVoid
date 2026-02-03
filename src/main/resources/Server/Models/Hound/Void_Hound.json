@@ -103,7 +103,7 @@
         {
           "Animation": "NPC/Undead/Hound_Bleached/Animations/Default/Alerted.blockyanim",
           "Looping": false,
-          "SoundEventId": "SFX_Wolf_Alerted"
+          "SoundEventId": "Alert"
         }
       ]
     },
@@ -151,7 +151,7 @@
         {
           "Animation": "NPC/Undead/Hound_Bleached/Animations/Damage/Death2.blockyanim",
           "Looping": false,
-          "SoundEventId": "SFX_Wolf_Death"
+          "SoundEventId": "hurt"
         }
       ]
     },
@@ -195,7 +195,7 @@
       "Animations": [
         {
           "Animation": "NPC/Undead/Hound_Bleached/Animations/Flavor/Threaten.blockyanim",
-          "SoundEventId": "SFX_Wolf_Alerted"
+          "SoundEventId": "Alert"
         }
       ]
     },
@@ -365,5 +365,18 @@
   "Light": {
     "Color": "#a4b",
     "Radius": 2
+  },
+  "Icon": "Icons/ModelsGenerated/Void_Hound.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
   }
 }

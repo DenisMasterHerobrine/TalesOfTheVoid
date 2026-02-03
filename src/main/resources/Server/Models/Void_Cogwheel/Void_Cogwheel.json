@@ -30,7 +30,7 @@
           "Animation": "NPC/Cogwheel/Animations/walk.blockyanim",
           "BlendingDuration": 0.1,
           "Speed": 1.5,
-          "SoundEventId": "SFX_Bear_Walk"
+          "SoundEventId": "walk"
         }
       ]
     },
@@ -40,7 +40,7 @@
           "Animation": "NPC/Cogwheel/Animations/walk_backward.blockyanim",
           "BlendingDuration": 0.1,
           "Speed": 1,
-          "SoundEventId": "SFX_Bear_Walk"
+          "SoundEventId": "walk"
         }
       ]
     },
@@ -48,7 +48,7 @@
       "Animations": [
         {
           "Animation": "NPC/Cogwheel/Animations/run.blockyanim",
-          "SoundEventId": "SFX_Bear_Grizzly_Run",
+          "SoundEventId": "walk",
           "Speed": 1
         }
       ]
@@ -122,7 +122,7 @@
         {
           "Animation": "NPC/Beast/Bear_Grizzly/Animations/Default/Alerted.blockyanim",
           "Looping": false,
-          "SoundEventId": "SFX_Bear_Grizzly_Alerted"
+          "SoundEventId": "Alert"
         }
       ]
     },
@@ -273,7 +273,7 @@
           "Animation": "NPC/Beast/Bear_Grizzly/Animations/Damage/Hurt.blockyanim",
           "BlendingDuration": 0.1,
           "Looping": false,
-          "SoundEventId": "SFX_Bear_Grizzly_Hurt"
+          "SoundEventId": "hurt"
         }
       ]
     },
@@ -282,7 +282,7 @@
         {
           "Animation": "NPC/Beast/Bear_Grizzly/Animations/Damage/Death.blockyanim",
           "Looping": false,
-          "SoundEventId": "SFX_Bear_Grizzly_Death"
+          "SoundEventId": "hurt"
         }
       ]
     },
@@ -407,5 +407,18 @@
         }
       ]
     }
+  },
+  "Icon": "Icons/ModelsGenerated/Void_Cogwheel.png",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -145
+    ]
   }
 }

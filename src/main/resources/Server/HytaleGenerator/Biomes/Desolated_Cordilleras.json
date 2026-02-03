@@ -9,11 +9,6 @@
 			"Type":	"Min",
 			"Skip":	false,
 			"Inputs":	[{
-					"$NodeId":	"ImportedDensityNode-b6dc3ea6-e91d-4c6a-b74b-1ae06294f109",
-					"Type":	"Imported",
-					"Skip":	false,
-					"Name":	"Void_Caves_Terrain"
-				}, {
 					"$NodeId":	"MultiplierDensityNode-45b56fe7-e3ac-43b0-8e99-c4abe7d3c2bc",
 					"Type":	"Multiplier",
 					"Skip":	false,
@@ -1022,12 +1017,6 @@
 					"$y":	-4823
 				}
 			},
-			"ImportedDensityNode-b6dc3ea6-e91d-4c6a-b74b-1ae06294f109":	{
-				"$Position":	{
-					"$x":	-2259,
-					"$y":	-5085
-				}
-			},
 			"MultiplierDensityNode-45b56fe7-e3ac-43b0-8e99-c4abe7d3c2bc":	{
 				"$Position":	{
 					"$x":	-2299,
@@ -1316,16 +1305,16 @@
 					"$y":	-10134
 				}
 			},
-			"CurvePoint-2ee55da1-e223-4fd4-a489-7c49e0879663":	{
-				"$Position":	{
-					"$x":	12449,
-					"$y":	-10041
-				}
-			},
 			"CurvePoint-759949ce-cfe2-441a-ba8e-f2e2ac4b5c6b":	{
 				"$Position":	{
 					"$x":	12528,
 					"$y":	-10214
+				}
+			},
+			"CurvePoint-2ee55da1-e223-4fd4-a489-7c49e0879663":	{
+				"$Position":	{
+					"$x":	12449,
+					"$y":	-10041
 				}
 			},
 			"BaseHeight.Density-a309cd81-5a1b-4dcc-b6b9-4848e3f99024":	{

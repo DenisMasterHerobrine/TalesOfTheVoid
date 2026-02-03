@@ -1,0 +1,23 @@
+{
+  "Environments": [
+    "Abyssal_Dark_Environment"
+  ],
+  "NPCs": [
+    {
+      "Id": "Void_Hound",
+      "Weight": 1.5,
+      "SpawnBlockSet": "Soil",
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Void_Guardian",
+      "Weight": 0.02,
+      "SpawnBlockSet": "Soil"
+    },
+    {
+      "Id": "Death_Wheel",
+      "Weight": 0.7,
+      "SpawnBlockSet": "Soil"
+    }
+  ]
+}

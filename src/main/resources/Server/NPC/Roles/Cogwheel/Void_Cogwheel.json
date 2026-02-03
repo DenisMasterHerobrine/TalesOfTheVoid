@@ -3,7 +3,7 @@
   "Reference": "Bear_Grizzly",
   "Modify": {
     "Appearance": "Void_Cogwheel",
-    "DropList": "Drop_Bear_Polar",
+    "DropList": "Big_Boys",
     "Attack": "Root_NPC_Bear_Polar_Attack",
     "MaxHealth": 700,
     "ViewRange": 16,
