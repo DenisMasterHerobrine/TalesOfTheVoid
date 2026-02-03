@@ -6,7 +6,8 @@ Void ~~C̶r̶e̶a̶t̶u̶r̶a~~ Creatures are not just monsters - they are remna
 ---
 
 Implemented Custom Content:
-- Music, sound effects (Thanks to https://freesound.org and https://itch.io!)
+- Music, sound effects 
+(Thanks to https://freesound.org, https://alkakrab.itch.io/flameheart-dark-fantast-music-pack and https://juanjosound.itch.io/dark-ambience-nocturnis-vol-1!)
 - Mobs
 - Animations
 - Dimension
@@ -29,7 +30,7 @@ Hytale is still in an early alpha stage, which introduced a significant number o
 - Structure generation caused numerous edge cases and instability
 Portal logic required multiple experimental implementations before working reliably, several core systems were simply unavailable
 (Huge thanks to joshieman for the opportunity to use [Shared Structures](https://www.curseforge.com/hytale/mods/shared-structures)!
-However, in the final version we decided to drop the library due to other complications, after which we changed our approach overall)
+However, in the final version we decided to drop the library due to other complications, after which we changed our approach overall (not because of issues with the library))
 
 During this 4-day sprint, of course, we couldn't avoid abandoned ideas, assets, animations, and all that - here are a few insights:
 
