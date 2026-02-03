@@ -286,7 +286,7 @@
 							"Skip":	false,
 							"WeightedPrefabPaths":	[{
 									"$NodeId":	"WeightedPath.Prefab.Prop-02230bb5-fc68-494f-8157-16d856c4c1ef",
-									"Path":	"Trees/Burnt_dead/Stage_4",
+									"Path":	"Trees/Burnt_dead/Stage_3",
 									"Weight":	40
 								}, {
 									"$NodeId":	"WeightedPath.Prefab.Prop-6787a4ab-5fa3-4293-b06b-37d860818379",
