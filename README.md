@@ -25,7 +25,15 @@ Implemented Custom Content:
 - Decorative elements
 - Dungeon mechanics
 
+## How to Start?
 
+It's easy to start. Just craft the Abyss Portal in the **Arcane Table** and go through it to access the dimension. Explore, survive and come back... if you can.
+
+## Authors
+- DenisMasterHerobrine >> Worldgen development and other pack development shenanigans, packagement, original game design and concepts for this mod, researching stuff here and there.
+- pon1mashik >> Help with models and textures, mobs and Sanctuary dungeon.
+- chmonyasik >> General help with animations, modelling, help with ideas and screenshots/videos.
+- Desenger >> Major help with the mod textures and modelling. Major help with building stuff and prefabs.
 
 ## Credits
 
