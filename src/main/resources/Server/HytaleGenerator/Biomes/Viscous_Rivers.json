@@ -1018,8 +1018,74 @@
 				"SkipChance":	0,
 				"Seed":	"A",
 				"WeightedAssignments":	[{
+						"$NodeId":	"Weight.Weighted.Assignments-a9bc40fe-a36f-4f45-af02-cf67c2bb9e0b",
+						"Weight":	0.01,
+						"Assignments":	{
+							"$NodeId":	"Constant.Assignments-9ca75a65-be71-427e-87df-3b9e6b3ff24f",
+							"Type":	"Constant",
+							"Prop":	{
+								"$NodeId":	"Prefab.Prop-12046289-4ca5-4e25-920d-e272b2d8c87b",
+								"Type":	"Prefab",
+								"Skip":	false,
+								"WeightedPrefabPaths":	[{
+										"$NodeId":	"WeightedPath.Prefab.Prop-6823b9aa-be19-4c27-b2ab-cf18cfea178d",
+										"Path":	"Ruins",
+										"Weight":	1
+									}],
+								"LegacyPath":	false,
+								"LoadEntities":	true,
+								"Directionality":	{
+									"$NodeId":	"Random.Directionality-efc537a5-b30a-4153-be34-d2466e9dc2a1",
+									"Type":	"Random",
+									"Seed":	"A",
+									"Pattern":	{
+										"$NodeId":	"And.Pattern-c2e00a31-f6a2-4c31-85c5-f29626cb0209",
+										"Type":	"And",
+										"Skip":	false,
+										"Patterns":	[{
+												"$NodeId":	"BlockType.Pattern-ceef13e5-db7e-4896-a74a-9b4a78d4ecf3",
+												"Type":	"BlockType",
+												"Skip":	false,
+												"Material":	{
+													"$NodeId":	"Material-8ad6c660-6ead-467f-99b8-a9223a0aea41",
+													"Solid":	"Void_Grass"
+												}
+											}, {
+												"$NodeId":	"FieldFunction.Pattern-a9aba3c2-94be-45db-b56a-9d519e380a7c",
+												"Type":	"FieldFunction",
+												"Skip":	false,
+												"FieldFunction":	{
+													"$NodeId":	"ImportedDensityNode-b0f145a3-a0ea-4177-9cdb-b57a01544f99",
+													"Type":	"Imported",
+													"Skip":	false,
+													"Name":	"OreCell"
+												},
+												"Delimiters":	[{
+														"$NodeId":	"Delimiter.FieldFunction.Pattern-1db1431d-df2d-4c5c-b7dc-f357e0a7ddf1",
+														"Min":	-0.2,
+														"Max":	0
+													}]
+											}]
+									}
+								},
+								"Scanner":	{
+									"$NodeId":	"ColumnLinear.Scanner-651a9a29-6b87-4461-9083-3ff252b2aaaa",
+									"Type":	"ColumnLinear",
+									"Skip":	false,
+									"MaxY":	150,
+									"MinY":	0,
+									"RelativeToPosition":	false,
+									"BaseHeightName":	"Base",
+									"TopDownOrder":	true,
+									"ResultCap":	1
+								},
+								"MoldingDirection":	"NONE",
+								"MoldingChildren":	false
+							}
+						}
+					}, {
 						"$NodeId":	"Weight.Weighted.Assignments-f3286e79-1b7f-4710-8a94-a763d69519f8",
-						"Weight":	0.7,
+						"Weight":	0.79,
 						"Assignments":	{
 							"$NodeId":	"Constant.Assignments-dadcda3f-9da4-4b13-8b3a-30bb24ffa199",
 							"Type":	"Constant",
@@ -1085,7 +1151,7 @@
 						}
 					}, {
 						"$NodeId":	"Weight.Weighted.Assignments-c5fcb6fa-c16a-408c-adf2-4d02ae613e29",
-						"Weight":	99.3
+						"Weight":	99.2
 					}]
 			}
 		}, {
@@ -2517,6 +2583,78 @@
 					"$x":	-2922,
 					"$y":	12694
 				}
+			},
+			"Weight.Weighted.Assignments-a9bc40fe-a36f-4f45-af02-cf67c2bb9e0b":	{
+				"$Position":	{
+					"$x":	3646,
+					"$y":	-2476
+				}
+			},
+			"Constant.Assignments-9ca75a65-be71-427e-87df-3b9e6b3ff24f":	{
+				"$Position":	{
+					"$x":	4149,
+					"$y":	-2425
+				}
+			},
+			"Prefab.Prop-12046289-4ca5-4e25-920d-e272b2d8c87b":	{
+				"$Position":	{
+					"$x":	4787,
+					"$y":	-2393
+				}
+			},
+			"WeightedPath.Prefab.Prop-6823b9aa-be19-4c27-b2ab-cf18cfea178d":	{
+				"$Position":	{
+					"$x":	5951,
+					"$y":	-2558
+				}
+			},
+			"Random.Directionality-efc537a5-b30a-4153-be34-d2466e9dc2a1":	{
+				"$Position":	{
+					"$x":	6316,
+					"$y":	-2364
+				}
+			},
+			"And.Pattern-c2e00a31-f6a2-4c31-85c5-f29626cb0209":	{
+				"$Position":	{
+					"$x":	7054,
+					"$y":	-2559
+				}
+			},
+			"BlockType.Pattern-ceef13e5-db7e-4896-a74a-9b4a78d4ecf3":	{
+				"$Position":	{
+					"$x":	7736,
+					"$y":	-2677
+				}
+			},
+			"Material-8ad6c660-6ead-467f-99b8-a9223a0aea41":	{
+				"$Position":	{
+					"$x":	8413,
+					"$y":	-2678
+				}
+			},
+			"FieldFunction.Pattern-a9aba3c2-94be-45db-b56a-9d519e380a7c":	{
+				"$Position":	{
+					"$x":	7744,
+					"$y":	-2422
+				}
+			},
+			"ImportedDensityNode-b0f145a3-a0ea-4177-9cdb-b57a01544f99":	{
+				"$Position":	{
+					"$x":	8480,
+					"$y":	-2504
+				}
+			},
+			"Delimiter.FieldFunction.Pattern-1db1431d-df2d-4c5c-b7dc-f357e0a7ddf1":	{
+				"$Position":	{
+					"$x":	8486,
+					"$y":	-2343
+				}
+			},
+			"ColumnLinear.Scanner-651a9a29-6b87-4461-9083-3ff252b2aaaa":	{
+				"$Position":	{
+					"$x":	6171,
+					"$y":	-2182
+				}
 			}
 		},
 		"$FloatingNodes":	[],
@@ -2674,6 +2812,14 @@
 				"$width":	5982.875,
 				"$height":	1038,
 				"$name":	"Light Crystals"
+			}, {
+				"$Position":	{
+					"$x":	3556.8125,
+					"$y":	-2764.0625
+				},
+				"$width":	5982.875,
+				"$height":	1038,
+				"$name":	"Ruins"
 			}],
 		"$Comments":	[],
 		"$WorkspaceID":	"HytaleGenerator - Biome"

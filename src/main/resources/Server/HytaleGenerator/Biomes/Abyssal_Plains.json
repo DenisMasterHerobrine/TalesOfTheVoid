@@ -347,7 +347,7 @@
 								"Skip":	false,
 								"WeightedPrefabPaths":	[{
 										"$NodeId":	"WeightedPath.Prefab.Prop-d2d055d9-4a14-4799-afec-c5911e651510",
-										"Path":	"Ruins",
+										"Path":	"Void_Rocks",
 										"Weight":	1
 									}],
 								"LegacyPath":	false,
@@ -981,24 +981,6 @@
 					"$y":	-1237
 				}
 			},
-			"Constant.EnvironmentProvider-9b528915-bdae-4bbf-9cea-1e0cf7e36c8c":	{
-				"$Position":	{
-					"$x":	-8110,
-					"$y":	-3667
-				}
-			},
-			"Constant.TintProvider-f6ec4d40-0d8a-49f2-ad06-5dcbd72d1cd9":	{
-				"$Position":	{
-					"$x":	-8086,
-					"$y":	-3442
-				}
-			},
-			"Point3D-1fc80a13-6589-4d2d-a30f-3a3bd379c494":	{
-				"$Position":	{
-					"$x":	-45,
-					"$y":	-5187
-				}
-			},
 			"Weight.Weighted.Assignments-ab8311fa-9088-49cb-bfd0-9ab0250c096e":	{
 				"$Position":	{
 					"$x":	-1886,
@@ -1142,6 +1124,24 @@
 					"$x":	585,
 					"$y":	1109
 				}
+			},
+			"Constant.EnvironmentProvider-9b528915-bdae-4bbf-9cea-1e0cf7e36c8c":	{
+				"$Position":	{
+					"$x":	-8110,
+					"$y":	-3667
+				}
+			},
+			"Constant.TintProvider-f6ec4d40-0d8a-49f2-ad06-5dcbd72d1cd9":	{
+				"$Position":	{
+					"$x":	-8086,
+					"$y":	-3442
+				}
+			},
+			"Point3D-1fc80a13-6589-4d2d-a30f-3a3bd379c494":	{
+				"$Position":	{
+					"$x":	-45,
+					"$y":	-5187
+				}
 			}
 		},
 		"$FloatingNodes":	[{
@@ -1181,8 +1181,8 @@
 					"$x":	-2114.3125,
 					"$y":	-4521.6875
 				},
-				"$width":	100,
-				"$height":	100,
+				"$width":	5025.1875,
+				"$height":	1424.375,
 				"$name":	"Weird Noise Attempt (it should not be done that way, but hey, it works)"
 			}, {
 				"$Position":	{
@@ -1191,7 +1191,7 @@
 				},
 				"$width":	5982.875,
 				"$height":	1038,
-				"$name":	"Ruins"
+				"$name":	"Void Rocks"
 			}, {
 				"$Position":	{
 					"$x":	-1976.1875,

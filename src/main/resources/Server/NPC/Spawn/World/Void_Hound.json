@@ -6,18 +6,15 @@
     {
       "Id": "Void_Hound",
       "Weight": 1.5,
-      "SpawnBlockSet": "Soil",
       "Flock": "Group_Small"
     },
     {
       "Id": "Void_Guardian",
-      "Weight": 0.02,
-      "SpawnBlockSet": "Soil"
+      "Weight": 0.02
     },
     {
       "Id": "Death_Wheel",
-      "Weight": 0.7,
-      "SpawnBlockSet": "Soil"
+      "Weight": 0.7
     }
   ]
 }

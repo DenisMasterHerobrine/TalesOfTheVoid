@@ -5,10 +5,10 @@
   "ItemLevel": 8,
   "Icon": "Icons/ItemsGenerated/Void_Grass.png",
   "Categories": [
-    "Blocks.Soils"
+    "Blocks.Rocks"
   ],
   "PlayerAnimationsId": "Block",
-  "Set": "Soil_Grass",
+  "Set": "Void_Stone",
   "Recipe": {
     "TimeSeconds": 0,
     "Input": [
@@ -35,7 +35,7 @@
   "BlockType": {
     "Material": "Solid",
     "DrawType": "Cube",
-    "Group": "Soil",
+    "Group": "Stone",
     "Flags": {},
     "Gathering": {
       "Breaking": {
@@ -65,14 +65,11 @@
     "TransitionToTag": "Fluid=Water"
   },
   "Tags": {
-    "Family": [
-      "Grass"
-    ],
     "Type": [
-      "Soil"
+      "Rock"
     ]
   },
-  "ItemSoundSetId": "ISS_Blocks_Soft",
+  "ItemSoundSetId": "ISS_Blocks_Stone",
   "IconProperties": {
     "Scale": 0.6,
     "Rotation": [
