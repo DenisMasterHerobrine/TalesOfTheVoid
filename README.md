@@ -1,7 +1,8 @@
 <img width="320" height="90" alt="TalesOfTheVoid_Text2" src="https://github.com/user-attachments/assets/8d404135-fb6f-43ce-af5c-414a2818d063" />
 
-*Entities born at the intersection of corrupted matter and forgotten mechanisms. What was once a functional system slowly decayed, leaving behind echoes: autonomous constructs, warped lifeforms, and unstable space that no longer follow the original design.
-Void ~~C̶r̶e̶a̶t̶u̶r̶a~~ Creatures are not just monsters - they are remnants of a machine that kept running long after its purpose was lost.*
+*Entities born at the intersection of corrupted matter and forgotten mechanisms. What was once a functional system slowly decayed, leaving behind echoes: autonomous constructs, warped lifeforms, and unstable space that no longer follow the original design.*
+
+*Void ~~C̶r̶e̶a̶t̶u̶r̶a~~ Creatures are not just monsters - they are remnants of a machine that kept running long after its purpose was lost.*
 
 *There's no obvious way out of this world, but maybe a bit of exploring... or perhaps... a battle, will open the road back home 🚪*
 
