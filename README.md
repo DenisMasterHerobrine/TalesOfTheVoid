@@ -24,12 +24,13 @@ Implemented Custom Content:
 
 Development Notes:
 Hytale is still in an early alpha stage, which introduced a significant number of limitations and unexpected challenges 🥀
-^
+
 ^ Some examples:
 - Attack animations are partially hardcoded
 (or at least that's how we understood it - figuring it out would have taken a lot of time, so we decided to work around it and adapt the custom mob models to the existing attacks of some mobs that are already in the game)
 
 - Structure generation caused numerous edge cases and instability
+
 Portal logic required multiple experimental implementations before working reliably, several core systems were simply unavailable
 (Huge thanks to joshieman for the opportunity to use [Shared Structures](https://www.curseforge.com/hytale/mods/shared-structures)!
 However, in the final version we decided to drop the library due to other complications, after which we changed our approach overall (not because of issues with the library))
