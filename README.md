@@ -1,3 +1,5 @@
+<img width="320" height="90" alt="TalesOfTheVoid_Text2" src="https://github.com/user-attachments/assets/8d404135-fb6f-43ce-af5c-414a2818d063" />
+
 *Entities born at the intersection of corrupted matter and forgotten mechanisms. What was once a functional system slowly decayed, leaving behind echoes: autonomous constructs, warped lifeforms, and unstable space that no longer follow the original design.
 Void ~~C̶r̶e̶a̶t̶u̶r̶a~~ Creatures are not just monsters - they are remnants of a machine that kept running long after its purpose was lost.*
 
@@ -41,6 +43,8 @@ During this 4-day sprint, of course, we couldn't avoid abandoned ideas, assets, 
 <img width="1271" height="675" alt="image" src="https://github.com/user-attachments/assets/2f930083-7ec7-458b-baeb-cf4a6e8fea8e" />
 <img width="185" height="178" alt="image" src="https://github.com/user-attachments/assets/de5e29da-e1a8-45fe-87da-54b139d18f37" />
 <img width="414" height="171" alt="image" src="https://github.com/user-attachments/assets/64d267a4-6cc3-4cd0-9937-4d68f2f9b5e7" />
+<img width="1188" height="343" alt="image" src="https://github.com/user-attachments/assets/da0ad661-e59a-405d-97b2-4db3ed96d040" />
+<img width="325" height="424" alt="image" src="https://github.com/user-attachments/assets/be2999d4-ce1e-480c-a6ed-09713e87b881" />
 
 ---
 
