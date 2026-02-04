@@ -16,6 +16,7 @@ Implemented Custom Content:
 - Mobs
 - Animations
 - Dimension
+- Day-and-night atmosphere
 - Structures
 - Biomes
 - Blocks
