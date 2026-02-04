@@ -6,6 +6,10 @@
 
 *There's no obvious way out of this world, but maybe a bit of exploring... or perhaps... a battle, will open the road back home 🚪*
 
+https://www.youtube.com/watch?v=JFtihveFq8A
+
+https://github.com/user-attachments/assets/0d6372db-534b-4d13-90c5-86df692d1221
+
 ---
 
 ## Overview
