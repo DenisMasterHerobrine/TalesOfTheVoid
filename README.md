@@ -42,9 +42,10 @@ It's easy to start. Just craft the Abyss Portal in the **Arcane Table** and go t
 
 ## Credits
 
-Thanks to https://freesound.org, https://alkakrab.itch.io/flameheart-dark-fantast-music-pack and https://juanjosound.itch.io/dark-ambience-nocturnis-vol-1!
+Thanks to [Hytale](https://hytale.com/), https://freesound.org, https://alkakrab.itch.io/flameheart-dark-fantast-music-pack and https://juanjosound.itch.io/dark-ambience-nocturnis-vol-1!
 
 Used assets:
+- Hytale assets
 - accordion attack 1 by PhonosUPF -- https://freesound.org/s/484871/ -- License: Creative Commons 0
 - sax attack 5 by PhonosUPF -- https://freesound.org/s/495765/ -- License: Creative Commons 0
 - sax effect 3 by PhonosUPF -- https://freesound.org/s/496056/ -- License: Creative Commons 0
